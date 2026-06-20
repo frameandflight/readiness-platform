@@ -29,8 +29,8 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-.serif { font-family: 'DM Serif Display', Georgia, serif; }
-.mono { font-family: 'JetBrains Mono', monospace; }
+font-family: 'Inter', system-ui, sans-serif; }
+font-family: 'Inter', system-ui, sans-serif; }
 
 /* Score pill */
 .score-pill {

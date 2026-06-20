@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-  --ink: #0f0e0c;
+  --ink: #fefeff;
   --chalk: #0d0b28;
   --slate: #4a4a52;
   --accent: #8e54ff;

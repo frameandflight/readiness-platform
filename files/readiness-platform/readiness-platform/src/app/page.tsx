@@ -23,10 +23,10 @@ export default function HomePage() {
       {/* Hero */}
       <section style={{ maxWidth: 1120, margin: '0 auto', padding: '96px 32px 80px' }}>
         <div style={{ display: 'inline-block', background: 'var(--accent-light)', color: 'var(--accent)', padding: '5px 14px', borderRadius: 100, fontSize: 12, fontWeight: 500, letterSpacing: '0.06em', textTransform: 'uppercase', marginBottom: 28 }}>
-          PLM Readiness Assessment v1.1
+          Product Lifecycle Maturity & Gap Analysis v1.1
         </div>
         <h1 className="serif" style={{ fontSize: 'clamp(42px, 6vw, 72px)', lineHeight: 1.1, letterSpacing: '-0.02em', maxWidth: 740, marginBottom: 28 }}>
-          Know exactly where your PLM stands
+          Know exactly where your product lifecycle management stands
         </h1>
         <p style={{ fontSize: 18, color: 'var(--slate)', maxWidth: 560, lineHeight: 1.7, marginBottom: 48 }}>
           Score your organization across nine capability areas — from supplier management to artwork — and receive a detailed readiness dashboard with a PDF report.

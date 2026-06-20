@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Frame & Flight — PLM Readiness Assessment',
-  description: 'Assess your organization\'s PLM process readiness across nine key capability areas.',
+  title: 'Frame & Flight — Product Lifecycle Maturity & Gap Analysis',
+  description: 'Assess your organization\'s PLM process maturity across nine key capability areas.',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
